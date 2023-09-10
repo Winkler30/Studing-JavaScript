@@ -1,3 +1,4 @@
+//Olympiad
 process.stdin.setEncoding('utf8');
 
 let maiorString = '';
