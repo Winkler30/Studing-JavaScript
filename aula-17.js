@@ -1,4 +1,4 @@
-
+// SWITCH CASE
 function teste(key){
     switch (key) {
         case 'Charles':
